@@ -6,7 +6,7 @@ Projet de fin de module Deep Learning, cohorte 3 AI Hub — Dakar Institute of T
 - **Groupe** : DJIGUIMDE Oumaro Titans et DIOUF Ousseynou
 - **Encadrant** : M. Amadou Alwaly NDIAYE
 - **Framework** : Keras / TensorFlow
-- **Livrables** : [rapport technique](docs/Rapport_technique_CNN.pdf) · [fiche d'impact](https://github.com/Odjiguimde/SenHub-Deep-Learningplant-disease-cnn/blob/main/docs/Fiche_impact.pdf) · [notebook](notebooks/projet_cnn_tomate.ipynb)
+- **Livrables** : [rapport technique](docs/https://github.com/Odjiguimde/SenHub-Deep-Learningplant-disease-cnn/blob/main/docs/Rapport_technique_CNN.pdf) · [fiche d'impact](https://github.com/Odjiguimde/SenHub-Deep-Learningplant-disease-cnn/blob/main/docs/Fiche_impact.pdf) · [notebook](notebooks/projet_cnn_tomate.ipynb)
 
 Une coopérative agricole veut qu'un agriculteur puisse photographier une feuille de tomate avec son
 smartphone et obtenir un diagnostic préliminaire. Nous entraînons des CNN conçus **from scratch** sur des
