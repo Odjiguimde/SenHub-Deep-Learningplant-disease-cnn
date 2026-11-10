@@ -217,7 +217,7 @@ L'accuracy n'est donnée qu'à titre indicatif.
 
 ## Impact pour l'agriculteur
 
-Résumé de la [fiche d'impact](docs/Fiche_impact.pdf).
+Résumé de la [fiche d'impact](https://github.com/Odjiguimde/SenHub-Deep-Learningplant-disease-cnn/blob/main/docs/Fiche_impact.pdf).
 
 - **Utilisateur** : maraîcher de la coopérative, sans formation en phytopathologie ni agronome à proximité,
   avec un smartphone d'entrée ou de milieu de gamme, souvent sans connexion → modèle léger, idéalement hors ligne.
